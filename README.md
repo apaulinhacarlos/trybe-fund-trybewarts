@@ -29,13 +29,13 @@ cd meu-diretorio
 Clone o projeto com o comando `git clone`:
 
 ```bash
-git clone git@github.com:apaulinhacarlos/trybe-fund-trybewarts-project.git
+git clone git@github.com:apaulinhacarlos/trybe-fund-trybewarts.git
 ```
 
 Acesse o diretório do projeto com o comando `cd`:
 
 ```bash
-cd trybe-fund-trybewarts-project
+cd trybe-fund-trybewarts
 ```
 
 Por fim, abra o arquivo `index.html` e acesse o projeto via browser.
